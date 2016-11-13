@@ -1,3 +1,5 @@
+## Plot 3 - Get the data and subset it
+
 myfile <- "./household_power_consumption.txt"
 mydata <- read.table(myfile, header=TRUE, sep=";", stringsAsFactors=FALSE, dec=".")
 
