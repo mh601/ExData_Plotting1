@@ -1,3 +1,5 @@
+## Plot 1
+
 myfile <- "./household_power_consumption.txt"
 mydata <- read.table(myfile, header=TRUE, sep=";", stringsAsFactors=FALSE, dec=".")
 
